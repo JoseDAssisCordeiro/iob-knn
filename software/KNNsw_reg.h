@@ -3,3 +3,8 @@
 //register address mapping
 #define KNN_RESET 0
 #define KNN_ENABLE 1
+#define KNN_I 2
+#define KNN_I_1 3
+#define KNN_I_2 4
+#define KNN_I_3 5
+#define KNN_Y 6
